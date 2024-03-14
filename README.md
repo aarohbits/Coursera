@@ -15,7 +15,7 @@ All Coursera and deeplearning notes for on this repo
 
 ## 3. Open Source Models with Hugging Face
 
-### Course Notes Notes [Open Source Models with Hugging Face](<03 Open Source Models with Hugging Face/Open Source Models with Hugging Face.pdf>)
+### Course Website link [Open Source Models with Hugging Face](<03 Open Source Models with Hugging Face/Open Source Models with Hugging Face.pdf>)
 
 ### Course Notes All Code [Open Source Models with Hugging Face CODE](<03 Open Source Models with Hugging Face/open-source-models-hugging-face CODE .txt>)
 

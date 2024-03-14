@@ -11,6 +11,8 @@ All Coursera and deeplearning notes for on this repo
 
 ### Course Website link [Gen AI for Everyone](https://www.coursera.org/learn/generative-ai-for-everyone)
 
+### Course Notes  [Gen AI for Everyone Notes](<02 Gen AI for Everyone/20231104 generative-ai-for-everyone.pdf>)
+
 ## 3. Open Source Models with Hugging Face
 
 ### Course Notes Notes [Open Source Models with Hugging Face](<03 Open Source Models with Hugging Face/Open Source Models with Hugging Face.pdf>)

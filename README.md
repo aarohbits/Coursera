@@ -23,6 +23,16 @@ All Coursera and deeplearning notes for on this repo
 ### Course Notes All Code [Open Source Models with Hugging Face CODE](<03 Open Source Models with Hugging Face/open-source-models-hugging-face CODE .txt>)
 
 
+## 4. Open Source Models with Hugging Face
+
+
+### Course Website link [Google AI Essentials](https://www.coursera.org/learn/google-ai-essentials)
+
+### Course Notes  [Course Notes](<04 Google AI Essentials/20240516 Google AI Essentials - Without Quizes.pdf>)
+
+
+
+
 
 
 

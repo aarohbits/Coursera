@@ -31,6 +31,13 @@ All Coursera and deeplearning notes for on this repo
 ### Course Notes  [Course Notes](<04 Google AI Essentials/20240516 Google AI Essentials - Without Quizes.pdf>)
 
 
+## 5. Build and Execute an Organisational AI Strategy
+
+
+### Course Website link [Build and Execute an Organisational AI Strategy](https://www.coursera.org/learn/build-and-execute-an-organisational-ai-strategy)
+
+### Course Notes  [Course Notes](<05 Build and Execute an Organisational AI Strategy/Build and Execute an Organisational AI Strategy.pdf>)
+
 
 
 
